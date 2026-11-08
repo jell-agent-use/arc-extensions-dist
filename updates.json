@@ -12,9 +12,9 @@
     "download-organizer@j-ell": {
       "updates": [
         {
-          "version": "1.1.1",
-          "update_link": "https://github.com/j-ell/arc-extensions-dist/releases/download/v1.1.1-download-organizer/download-organizer-1.1.1.xpi",
-          "update_hash": "sha256:2259c99c410b9e68400009a6fbfa98f9fbfe286ca44f40cec97b3f435e50526a"
+          "version": "1.2.0",
+          "update_link": "https://github.com/jell-agent-use/arc-extensions-dist/releases/download/v1.2.0-download-organizer/download-organizer-1.2.0.xpi",
+          "update_hash": "sha256:44f7de69bed7629d8517d261162f2ca5afeb9b7016d05ca935d4e3e22fb882c6"
         }
       ]
     }
